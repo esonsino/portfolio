@@ -2,8 +2,11 @@ Is there any relationship between the spread of the corona virus in a country an
   
 In order to answer this question, I've worked with two datasets. Covid19 data set published by John Hopkins University, 
 which consists of the data related to a cumulative number of confirmed cases in different countries per day.
+
 The second data set, is a data set related to World Happiness Report. The word happiness report is on annual publication of the United Nations. 
-This data set consists of scores given by people those people who are living in different countries to various life factors, such as freedom to make life choices, healthy life expectancy, social support on so on.
+This data set consists of scores given by people those people who are living in different countries to various life factors, 
+such as freedom to make life choices, healthy life expectancy, social support on so on.
+
 I've merged these two data sets and calculate a measure which can help us to find the answer to the question that we have. 
 ​
 Tools: Python, pandas, matplotlib and seaborn.
