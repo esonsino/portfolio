@@ -7,3 +7,5 @@ Feel free to explore different sections of the website to gain a comprehensive u
 I value feedback and criticism and if you have any comments or suggestions, please don't hesitate to reach out. 
 
 Thank you for visiting my data analytics portfolio! I hope you find it informative and engaging.
+
+eytan.sonsino@gmail.com
