@@ -1,0 +1,8 @@
+Is there any relationship between life expectancy and birth rate by countries?
+​
+The general trend seems to indicate that as life expectancy increases, the birth rate decreases. This is a common demographic trend, where countries with higher life expectancies, which often correlates with better healthcare and higher standards of living, tend to have lower birth rates.
+ 
+Countries are spread out across the graph, with some notable ones labeled, such as Niger with high birth rates and lower life expectancies, and Germany and the United States with lower birth rates and higher life expectancies.
+​
+Tools: Python, pandas, matplotlib and seaborn.
+Project Type: Data Gathering, Data Cleaning, Data Transformation, Data Merging, Data Visualization
