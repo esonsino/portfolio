@@ -1,13 +1,21 @@
-WHAT ARE THE MOST IN DEMAND SKILLS FOR DATA RELATED JOBS? 
+In-Demand Skills for Data Careers: An Insightful Guide
+What are the most in-demand skills for jobs in the data field. 
 
 Exploring the most frequently advertised job titles in the data field to determine which skills are currently most sought-after by employers.
 
-1. SKILLS ANALYSIS: This study analyzes which skills are in demand for three data main categoris of data related job titles in order to guide people who want to start a career in this are
-    or to help people already in the filed get the best skills for a better career development.
-    Three categories of job titles analyzed in this project are 'Data Analyst', 'Data Scientist and 'Data Engineer' roles. 
+SKILLS ANALYSIS
+This study analyzes which skills are in demand for 'Data Analyst', 'Data Scientist' and 'Data Engineer' roles in order to guide people who want to start a career in this area
+and to help people who are already in the filed get the best skills for a better career development.
 
-2. JOB TITLES ANALYSIS: Identify the most frequently advertised job titles in the data field to determine which positions are currently most sought-after by employers.
+JOB TITLES TRENDS
+Identify the most frequently advertised job titles in the data field to determine which positions are currently most sought-after by employers.
 
-3. JOB PLATFORMS ANALYSIS: Analyzing which online platforms are most commonly used for posting data-related job vacancies, indicating where job seekers are most likely to find these                                    opportunities.
+JOB MARKET PLATFORMS
+Analyzing which online platforms are most commonly used for posting data-related job vacancies, indicating where job seekers are most likely to find these                                    opportunities.
 
-4. SALARY ANALYSIS: A comparative analysis of salary offerings for different data-related job titles to understand compensation trends in the field.
+SALARY INSIGHTS
+A comparative analysis of salary offerings for different data-related job titles to understand compensation trends in the field.
+
+
+Data Source: [https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search](url)
+Thank you so Luke Barousse for creating and sharing this amazing data set. 
