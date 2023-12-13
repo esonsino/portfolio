@@ -1,5 +1,4 @@
 In-Demand Skills for Data Careers: An Insightful Guide
-What are the most in-demand skills for jobs in the data field. 
 
 Exploring the most frequently advertised job titles in the data field to determine which skills are currently most sought-after by employers.
 
