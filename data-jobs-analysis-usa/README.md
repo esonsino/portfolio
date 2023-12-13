@@ -22,4 +22,4 @@ Comparative analysis of salary offerings for different data-related job titles t
 
 Data Source: [https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search](url)
 
-Thank you Luke Barousse for creating and sharing this valuable data set. 
+Thank you Luke Barousse for creating and sharing this valuable dataset. 
